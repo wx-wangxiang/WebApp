@@ -1,0 +1,27 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "this is a template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wx-wangxiang/WebApp.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "wangxiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wx-wangxiang/WebApp/issues"
+  },
+  "homepage": "https://github.com/wx-wangxiang/WebApp#readme",
+  "devDependencies": {
+    "css-loader": "^0.26.0",
+    "html-webpack-plugin": "^2.24.1",
+    "style-loader": "^0.13.1"
+  }
+}
